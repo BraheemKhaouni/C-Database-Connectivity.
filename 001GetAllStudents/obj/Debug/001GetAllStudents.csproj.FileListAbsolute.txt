@@ -1,0 +1,7 @@
+A:\01 Testing\001GetAllStudents\bin\Debug\001GetAllStudents.exe.config
+A:\01 Testing\001GetAllStudents\bin\Debug\001GetAllStudents.exe
+A:\01 Testing\001GetAllStudents\bin\Debug\001GetAllStudents.pdb
+A:\01 Testing\001GetAllStudents\obj\Debug\001GetAllStudents.csproj.AssemblyReference.cache
+A:\01 Testing\001GetAllStudents\obj\Debug\001GetAllStudents.csproj.CoreCompileInputs.cache
+A:\01 Testing\001GetAllStudents\obj\Debug\001GetAllStudents.exe
+A:\01 Testing\001GetAllStudents\obj\Debug\001GetAllStudents.pdb
