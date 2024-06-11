@@ -1,0 +1,7 @@
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\bin\Debug\003 Parameterized Query With Like.exe.config
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\bin\Debug\003 Parameterized Query With Like.exe
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\bin\Debug\003 Parameterized Query With Like.pdb
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\obj\Debug\003 Parameterized Query With Like.csproj.AssemblyReference.cache
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\obj\Debug\003 Parameterized Query With Like.csproj.CoreCompileInputs.cache
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\obj\Debug\003 Parameterized Query With Like.exe
+A:\01 Testing\C# & Database Connectivity\003 Parameterized Query With Like\obj\Debug\003 Parameterized Query With Like.pdb

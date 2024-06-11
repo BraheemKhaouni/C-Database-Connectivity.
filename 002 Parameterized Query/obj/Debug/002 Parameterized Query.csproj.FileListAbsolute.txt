@@ -1,0 +1,7 @@
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\bin\Debug\002 Parameterized Query.exe.config
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\bin\Debug\002 Parameterized Query.exe
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\bin\Debug\002 Parameterized Query.pdb
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\obj\Debug\002 Parameterized Query.csproj.AssemblyReference.cache
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\obj\Debug\002 Parameterized Query.csproj.CoreCompileInputs.cache
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\obj\Debug\002 Parameterized Query.exe
+A:\01 Testing\ملف جديد كامل للرفع على حيت هاب\002 Parameterized Query\obj\Debug\002 Parameterized Query.pdb
