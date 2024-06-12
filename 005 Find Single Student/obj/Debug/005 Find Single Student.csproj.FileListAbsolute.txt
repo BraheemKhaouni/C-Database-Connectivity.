@@ -1,0 +1,7 @@
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\bin\Debug\005 Find Single Student.exe.config
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\bin\Debug\005 Find Single Student.exe
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\bin\Debug\005 Find Single Student.pdb
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\obj\Debug\005 Find Single Student.csproj.AssemblyReference.cache
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\obj\Debug\005 Find Single Student.csproj.CoreCompileInputs.cache
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\obj\Debug\005 Find Single Student.exe
+A:\01 Testing\C# & Database Connectivity\005 Find Single Student\obj\Debug\005 Find Single Student.pdb
