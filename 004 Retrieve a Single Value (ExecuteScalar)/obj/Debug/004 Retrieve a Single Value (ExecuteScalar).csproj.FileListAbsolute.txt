@@ -1,0 +1,7 @@
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\bin\Debug\004 Retrieve a Single Value (ExecuteScalar).exe.config
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\bin\Debug\004 Retrieve a Single Value (ExecuteScalar).exe
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\bin\Debug\004 Retrieve a Single Value (ExecuteScalar).pdb
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\obj\Debug\004 Retrieve a Single Value (ExecuteScalar).csproj.AssemblyReference.cache
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\obj\Debug\004 Retrieve a Single Value (ExecuteScalar).csproj.CoreCompileInputs.cache
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\obj\Debug\004 Retrieve a Single Value (ExecuteScalar).exe
+A:\01 Testing\C# & Database Connectivity\004 Retrieve a Single Value (ExecuteScalar)\obj\Debug\004 Retrieve a Single Value (ExecuteScalar).pdb
