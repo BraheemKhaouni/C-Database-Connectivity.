@@ -1,7 +1,0 @@
-A:\01 Testing\C# & Database Connectivity\008 Update Date\bin\Debug\008 Update Date.exe.config
-A:\01 Testing\C# & Database Connectivity\008 Update Date\bin\Debug\008 Update Date.exe
-A:\01 Testing\C# & Database Connectivity\008 Update Date\bin\Debug\008 Update Date.pdb
-A:\01 Testing\C# & Database Connectivity\008 Update Date\obj\Debug\008 Update Date.csproj.AssemblyReference.cache
-A:\01 Testing\C# & Database Connectivity\008 Update Date\obj\Debug\008 Update Date.csproj.CoreCompileInputs.cache
-A:\01 Testing\C# & Database Connectivity\008 Update Date\obj\Debug\008 Update Date.exe
-A:\01 Testing\C# & Database Connectivity\008 Update Date\obj\Debug\008 Update Date.pdb
