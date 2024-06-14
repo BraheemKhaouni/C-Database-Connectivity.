@@ -1,0 +1,7 @@
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\bin\Debug\009  Delete Data Student.exe.config
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\bin\Debug\009  Delete Data Student.exe
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\bin\Debug\009  Delete Data Student.pdb
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\obj\Debug\009  Delete Data Student.csproj.AssemblyReference.cache
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\obj\Debug\009  Delete Data Student.csproj.CoreCompileInputs.cache
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\obj\Debug\009  Delete Data Student.exe
+A:\01 Testing\C# & Database Connectivity\009  Delete Data Student\obj\Debug\009  Delete Data Student.pdb

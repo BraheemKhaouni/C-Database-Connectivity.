@@ -1,0 +1,7 @@
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\bin\Debug\06 Insert-Add Data Student.exe.config
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\bin\Debug\06 Insert-Add Data Student.exe
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\bin\Debug\06 Insert-Add Data Student.pdb
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\obj\Debug\06 Insert-Add Data Student.csproj.AssemblyReference.cache
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\obj\Debug\06 Insert-Add Data Student.csproj.CoreCompileInputs.cache
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\obj\Debug\06 Insert-Add Data Student.exe
+A:\01 Testing\C# & Database Connectivity\06 Insert-Add Data Student\obj\Debug\06 Insert-Add Data Student.pdb
