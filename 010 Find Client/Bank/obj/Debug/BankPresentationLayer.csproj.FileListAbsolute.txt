@@ -1,0 +1,12 @@
+A:\01 Testing\Bank\bin\Debug\Bank.exe.config
+A:\01 Testing\Bank\bin\Debug\Bank.exe
+A:\01 Testing\Bank\bin\Debug\Bank.pdb
+A:\01 Testing\Bank\bin\Debug\BankBusinessLayer.dll
+A:\01 Testing\Bank\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\Bank\bin\Debug\BankBusinessLayer.pdb
+A:\01 Testing\Bank\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\Bank\obj\Debug\BankPresentationLayer.csproj.AssemblyReference.cache
+A:\01 Testing\Bank\obj\Debug\BankPresentationLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\Bank\obj\Debug\BankPres.A4EF91CE.Up2Date
+A:\01 Testing\Bank\obj\Debug\Bank.exe
+A:\01 Testing\Bank\obj\Debug\Bank.pdb
