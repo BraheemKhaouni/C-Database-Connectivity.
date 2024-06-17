@@ -1,0 +1,12 @@
+A:\01 Testing\Bank\obj\Debug\BankShowLayer.csproj.AssemblyReference.cache
+A:\01 Testing\Bank\obj\Debug\BankShowLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\Bank\bin\Debug\Bank.exe.config
+A:\01 Testing\Bank\bin\Debug\Bank.exe
+A:\01 Testing\Bank\bin\Debug\Bank.pdb
+A:\01 Testing\Bank\bin\Debug\BankBuissniseLayer.dll
+A:\01 Testing\Bank\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\Bank\bin\Debug\BankBuissniseLayer.pdb
+A:\01 Testing\Bank\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\Bank\obj\Debug\BankShow.848B9815.Up2Date
+A:\01 Testing\Bank\obj\Debug\Bank.exe
+A:\01 Testing\Bank\obj\Debug\Bank.pdb

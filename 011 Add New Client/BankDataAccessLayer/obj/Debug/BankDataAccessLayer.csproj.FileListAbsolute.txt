@@ -1,0 +1,6 @@
+A:\01 Testing\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\BankDataAccessLayer\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.AssemblyReference.cache
+A:\01 Testing\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.dll
+A:\01 Testing\BankDataAccessLayer\obj\Debug\BankDataAccessLayer.pdb

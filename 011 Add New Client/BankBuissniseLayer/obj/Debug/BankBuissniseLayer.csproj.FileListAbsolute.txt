@@ -1,0 +1,9 @@
+A:\01 Testing\BankBuissniseLayer\obj\Debug\BankBuissniseLayer.csproj.AssemblyReference.cache
+A:\01 Testing\BankBuissniseLayer\obj\Debug\BankBuissniseLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankBuissniseLayer\bin\Debug\BankBuissniseLayer.dll
+A:\01 Testing\BankBuissniseLayer\bin\Debug\BankBuissniseLayer.pdb
+A:\01 Testing\BankBuissniseLayer\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\BankBuissniseLayer\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\BankBuissniseLayer\obj\Debug\BankBuis.A139650C.Up2Date
+A:\01 Testing\BankBuissniseLayer\obj\Debug\BankBuissniseLayer.dll
+A:\01 Testing\BankBuissniseLayer\obj\Debug\BankBuissniseLayer.pdb
