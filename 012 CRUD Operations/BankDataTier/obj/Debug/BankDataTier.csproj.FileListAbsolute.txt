@@ -1,0 +1,6 @@
+A:\01 Testing\BankDataTier\bin\Debug\BankDataTier.dll
+A:\01 Testing\BankDataTier\bin\Debug\BankDataTier.pdb
+A:\01 Testing\BankDataTier\obj\Debug\BankDataTier.csproj.AssemblyReference.cache
+A:\01 Testing\BankDataTier\obj\Debug\BankDataTier.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankDataTier\obj\Debug\BankDataTier.dll
+A:\01 Testing\BankDataTier\obj\Debug\BankDataTier.pdb

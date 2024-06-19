@@ -1,0 +1,9 @@
+A:\01 Testing\BankMiddleTier\bin\Debug\BankMiddleTier.dll
+A:\01 Testing\BankMiddleTier\bin\Debug\BankMiddleTier.pdb
+A:\01 Testing\BankMiddleTier\bin\Debug\BankDataTier.dll
+A:\01 Testing\BankMiddleTier\bin\Debug\BankDataTier.pdb
+A:\01 Testing\BankMiddleTier\obj\Debug\BankMiddleTier.csproj.AssemblyReference.cache
+A:\01 Testing\BankMiddleTier\obj\Debug\BankMiddleTier.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankMiddleTier\obj\Debug\BankMidd.23288EF8.Up2Date
+A:\01 Testing\BankMiddleTier\obj\Debug\BankMiddleTier.dll
+A:\01 Testing\BankMiddleTier\obj\Debug\BankMiddleTier.pdb

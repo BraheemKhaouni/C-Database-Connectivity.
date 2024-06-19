@@ -1,0 +1,12 @@
+A:\01 Testing\BankP\bin\Debug\BankP.exe.config
+A:\01 Testing\BankP\bin\Debug\BankP.exe
+A:\01 Testing\BankP\bin\Debug\BankP.pdb
+A:\01 Testing\BankP\bin\Debug\BankMiddleTier.dll
+A:\01 Testing\BankP\bin\Debug\BankDataTier.dll
+A:\01 Testing\BankP\bin\Debug\BankMiddleTier.pdb
+A:\01 Testing\BankP\bin\Debug\BankDataTier.pdb
+A:\01 Testing\BankP\obj\Debug\BankUserInterface.csproj.AssemblyReference.cache
+A:\01 Testing\BankP\obj\Debug\BankUserInterface.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankP\obj\Debug\BankUser.F2D21E03.Up2Date
+A:\01 Testing\BankP\obj\Debug\BankP.exe
+A:\01 Testing\BankP\obj\Debug\BankP.pdb
