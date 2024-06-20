@@ -1,0 +1,7 @@
+A:\01 Testing\013 DataTable\bin\Debug\013 DataTable.exe.config
+A:\01 Testing\013 DataTable\bin\Debug\013 DataTable.exe
+A:\01 Testing\013 DataTable\bin\Debug\013 DataTable.pdb
+A:\01 Testing\013 DataTable\obj\Debug\013 DataTable.csproj.AssemblyReference.cache
+A:\01 Testing\013 DataTable\obj\Debug\013 DataTable.csproj.CoreCompileInputs.cache
+A:\01 Testing\013 DataTable\obj\Debug\013 DataTable.exe
+A:\01 Testing\013 DataTable\obj\Debug\013 DataTable.pdb
